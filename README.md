@@ -17,7 +17,7 @@
 ## Let's connect 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ardi febrian/">
+  <a href="https://www.linkedin.com/in/ardi-febrian/">
     <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.instagram.com/ardifebriaan/">
