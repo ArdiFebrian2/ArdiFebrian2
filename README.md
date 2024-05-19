@@ -9,6 +9,7 @@
 - 🌍 I'm From Indonesia.
 - 🌱 I'm currently learning Flutter, Dart & more
 - ⚡ Stay Humble and Calm
+- 💆 I feel good talking to other people about the world of technology
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardifebrian2" alt="ardifebrian2" /></a> </p>
 
