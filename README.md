@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardifebrian2&label=Profile%20views&color=0e75b6&style=flat" alt="ardifebrian2" /> </p>
 
-Skills: Flutter - Android - Firebase 
+
 - 🌍 I'm From Indonesia.
 - 🌱 I'm currently learning Flutter, Dart & more
 - ⚡ Stay Humble and Calm
